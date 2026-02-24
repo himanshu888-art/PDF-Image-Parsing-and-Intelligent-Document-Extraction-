@@ -1,0 +1,1 @@
+A smart Google Jobs scraper that extracts job titles, companies, locations, and multiple apply links using Selenium. Handles dynamic loading, clicks through listings, and exports clean structured data for further analysis or automation.
